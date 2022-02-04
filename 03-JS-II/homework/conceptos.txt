@@ -1,0 +1,4 @@
+# Homework: Javascript II
+
+1.for: un bucle for es una forma de repetir un bloque de codigo de manera constante hasta que se cumpla una cierta condicion pre-establecida. De este modo realizamos acciones repetitivas de manera rapida y con pocas lineas de codigo.
+2.&&, ||, !: Los operadores logicos son utilizados para alterar las condiciones dentro de un if. && se utiliza para hacer que un bloque de codigo solo se ejecute si y solo si las dos partes de la condicion se cumplen. || por otro lado ejecutara el bloque de codigo si ambas o una sola de las condiciones se cumple y ! se utiliza para ejecutar un bloque de codigo cuya condicion ha sido invertida (si inicialmente dicha condicion arrojaba false y no se ejecutaba, con ! ahora arrojara true y se ejecutara)

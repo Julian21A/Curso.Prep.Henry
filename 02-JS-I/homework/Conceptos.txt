@@ -1,0 +1,7 @@
+# Homework: Introduccion a Javascript
+
+1. Variable: Una variable almacena datos bajo un nombre, los cuales pueden utilizarse en para diversas operaciones y almacena cualquier tipo de dato. El valor de una variable puede verse alterado de diversas formas. Se declara "var Variable = 'algo'
+2. String: todo texto escrito entre comillas simples o dobles ('esto es un String'), incluye cualquier tipo de caracteres.
+3. Funciones: es una forma de reutilizar codigo, una funcion almacena un bloque de codigo bajo un nombre (con o sin parametros definidos), que puede ser llamada en cualquier momento por el mismo para no volver a escribir el mismo bloque de codigo.
+4. Declaraciones if: es una forma de controlar el codigo, por medio de un if le decimos al codigo que si una condicion se cumple ejecute una parte, o si no ejecute otra. se pueden tener multiples if.
+5. Valores Booleanos: un valor booleano corresponde a verdadero o falso unicamente, pero puede verse de diversas maneras.
