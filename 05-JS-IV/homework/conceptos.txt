@@ -1,0 +1,7 @@
+# Homework: Javascript IV
+
+1. Objetos: son una representacion en programacion de lo que existe en el mundo real, de manera simplificada
+2. Propiedades: son las caracteristicas con las que cuenta un objeto, basandose en su version del mundo real, las cuales se declaran desde el inicio dentro de ellos.
+3. Metodos: son las acciones que puede realizar un objeto en base a su contraparte real, las cuales se declaran dentro del mismo
+4. For...in: es un bucle for que nos permite iterar dentro de objetos, es diferente a un bucle for normal debido a la cualidad de los objetos de estar en formato key-value, este itera sobre las key pre asignadas al objeto.
+5. Notación de puntos vs notación de corchetes: tantos puntos como corchetes permiten acceder a los atributos de un objeto, pero solo la notacion por corchetes permite un acceso diamico a estos mismos, ademas de no tener tantas limitaciones como la notacion por puntos

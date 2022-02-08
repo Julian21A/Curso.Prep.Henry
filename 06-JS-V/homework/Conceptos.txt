@@ -1,0 +1,4 @@
+# Homework: Javascript V
+
+1 prototype: es un metodo el cual se utiliza para hacer que os obhetos hereden caracteristicas entre.
+2. _Contructors_: es el metodo utilizado inicializar un objeto a partir de una clase, determinar sus caracteristicas y a que parametros corresponde.
